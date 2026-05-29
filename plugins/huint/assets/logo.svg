@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" role="img" aria-labelledby="huinter-title huinter-desc">
+  <title id="huinter-title">Huint</title>
+  <desc id="huinter-desc">Twelve map pins arranged in a circle.</desc>
+  <g fill="#E67319">
+    <path d="M 0 0 L 44.721 -89.443 A 50 50 0 1 0 -44.721 -89.443 Z" transform="translate(500.000 430.194) rotate(0.0000)"/>
+    <path d="M 0 0 L 32.199 -64.398 A 36 36 0 1 0 -32.199 -64.398 Z" transform="translate(548.545 411.304) rotate(28.6928)"/>
+    <path d="M 0 0 L 48.299 -96.598 A 54 54 0 1 0 -48.299 -96.598 Z" transform="translate(551.999 468.372) rotate(58.6902)"/>
+    <path d="M 0 0 L 35.777 -71.554 A 40 40 0 1 0 -35.777 -71.554 Z" transform="translate(592.167 499.994) rotate(89.9960)"/>
+    <path d="M 0 0 L 42.933 -85.865 A 48 48 0 1 0 -42.933 -85.865 Z" transform="translate(564.750 536.397) rotate(119.3406)"/>
+    <path d="M 0 0 L 30.411 -60.821 A 34 34 0 1 0 -30.411 -60.821 Z" transform="translate(557.917 588.281) rotate(146.7327)"/>
+    <path d="M 0 0 L 50.087 -100.175 A 56 56 0 1 0 -50.087 -100.175 Z" transform="translate(503.217 556.298) rotate(176.7301)"/>
+    <path d="M 0 0 L 37.566 -75.132 A 42 42 0 1 0 -37.566 -75.132 Z" transform="translate(457.019 576.440) rotate(209.3486)"/>
+    <path d="M 0 0 L 41.144 -82.287 A 46 46 0 1 0 -41.144 -82.287 Z" transform="translate(432.716 540.920) rotate(238.6932)"/>
+    <path d="M 0 0 L 33.987 -67.974 A 38 38 0 1 0 -33.987 -67.974 Z" transform="translate(403.518 505.504) rotate(266.7352)"/>
+    <path d="M 0 0 L 46.510 -93.020 A 52 52 0 1 0 -46.510 -93.020 Z" transform="translate(441.649 470.611) rotate(296.7325)"/>
+    <path d="M 0 0 L 39.355 -78.710 A 44 44 0 1 0 -39.355 -78.710 Z" transform="translate(456.757 428.894) rotate(328.6942)"/>
+  </g>
+</svg>

@@ -1,6 +1,6 @@
 {
   "name": "huint",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Connect Claude to Huint's hosted MCP for exact-location photo task operations over Supabase OAuth.",
   "author": { "name": "Huint", "url": "https://huint.io" },
   "homepage": "https://huint.io/docs",

@@ -6,14 +6,14 @@
   },
   "metadata": {
     "description": "Huint plugins for Claude — connect to the hosted Huint MCP for exact-location photo tasks.",
-    "version": "0.1.0"
+    "version": "0.1.1"
   },
   "plugins": [
     {
       "name": "huint",
       "source": "./plugins/huint",
       "description": "Connect Claude to Huint's hosted MCP for exact-GPS photo task operations over OAuth.",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "author": { "name": "Huint", "url": "https://huint.io" },
       "homepage": "https://huint.io/docs",
       "keywords": ["huint", "mcp", "photo-tasks", "oauth", "location"],
